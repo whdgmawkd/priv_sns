@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Private SNS</string>
+    <string name="webapp_url">http://172.20.20.36/privateSNS/</string>
+</resources>
